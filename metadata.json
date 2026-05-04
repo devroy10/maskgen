@@ -1,0 +1,6 @@
+{
+  "name": "MaskGen for OBS",
+  "description": "Professional-grade browser-based tool for creating anti-aliased, mathematically perfect webcam masks and squircles for OBS Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
